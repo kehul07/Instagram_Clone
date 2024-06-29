@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602303463903",
+    "project_id": "instagramclone-bc006",
+    "storage_bucket": "instagramclone-bc006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602303463903:android:a5a845531aa5d0e1c4846a",
+        "android_client_info": {
+          "package_name": "com.kehuldroid.instagramclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDszD87V3uzdPZ3opKvC5d7RqEO-8NknUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
